@@ -1,4 +1,4 @@
-# PaintBrush_in_Java
+# PaintBrush in Java
 Interactive PaintPrush program in java
 
 Contains: Drawing Rectangles, Ovals and Moving these shapes. Drawing Lines. Using Pen and Brush. Choosing Colors. Saving and Loading Files. 
